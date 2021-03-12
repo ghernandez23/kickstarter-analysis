@@ -23,24 +23,21 @@ percentage (72-76%) of being successful. Overall, in most categorys of goals suc
 the failures, with virtually zero play kickstarters being cancelled.
 
   Challenges and Difficulties Encountered- This was my first time combing through so much data at once as well 
-working with formulas in excel and this was the biggest challenge for me by far. With consistency and a thorough
-review of the information in Module one I was able to overcome any difficulties and now I feel completly comfortable
-with both analyzing large amounts of data as well as visualizing the reults via graphs/charts. 
+working with formulas in excel and this was the biggest challenge for me by far. Specifically, the portion of
+the outcomes based on goals section where I was having to set the range of successful campaigns between 
+1,000 and 4,999. writing majority of the function was easy with going through the information in the module, 
+however I couldnt figure out where in the formula you ended the range. with some practice, I was finally able to 
+get it and repreat the process with the rest of the data. 
 
 ## Results
 
-  What are two conclusions you can draw about the Outcomes based on Launch Date?-I can say without a doubt that
-campaigns lauched in quarter 2 of the year have the highest chance of being successful and that overall an average
-of over 60% of total campaigns will be successful.
-
-  What can you conclude about the Outcomes based on Goals?- I can conclude that if a campaign has a goal of less 
-than 5K you have a very high chance of being successful in funding your kickstarter. Most of the data suggests
-that if you have a goal of 15,000-39,000 your chance of failure if 50% or higher. 
-
-  What are some limitations of this dataset?- The data does an excellent job of painting a picture of small budget
-campaigns which means that the data on kickstarter campaigns with a goal of over 20,000 is very limited, as it 
-makes up only 5% total of the dataset.
-
-  What are some other possible tables and/or graphs that we could create?- With what we are trying to visualize I 
-think bar charts would be a great way to show success/failed percentages as well as a stacked bar graph to show
-comparisions in kickstarter success/failures by month. 
+  Afer a thorough review of the theater kickstarter campaigns, the data suggests that overall campaigns have 
+a better chance of succeeding with 61% of all theater campaigns hitting their target goals of raising money. We 
+can also see that majority of the volume of different theater kickstarter campaigns took place in the second quarter
+of the year, suggesting that the Spring would be the ideal time to set out on achieving your goals of funding. 
+When reviewing the data of plays specifically, the data suggests that the best possibility for a successful campaign 
+would require the play to have a funding goal of less than 5,000. Campaigns have a 74% success rate with chances of 
+success dwindling the higher the goal is. Majority of the data on theater plays is made of up of campaigns with a 
+goal of 5,000 or less (69%) so I would say this is a major limitation of the data that was presented. while trying 
+to visualize this data I believe basic line graphs are the best way to help with understanding all of the trends 
+within the data. 
